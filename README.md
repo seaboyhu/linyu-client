@@ -1,3 +1,15 @@
+# ⚠️ 项目已迁移
+
+本仓库已停止维护并进入归档状态。
+
+Linyu 项目已迁移至新的仓库：
+
+👉 https://github.com/linyu-im/linyu-client
+
+请前往新仓库获取最新版本、提交 Issue 和参与开发。
+
+---
+
 <p align="center">
   <img width="128px" src=".github/logo.png" />
 </p>
